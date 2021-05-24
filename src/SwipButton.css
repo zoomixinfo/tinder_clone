@@ -1,0 +1,31 @@
+.swapButton {
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.swapButton .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+.swapButton__repeat {
+    padding: 3vh !important;
+    color: orange !important;
+}
+.swapButton__left {
+    padding: 3vh !important;
+    color: brown !important;
+}
+.swapButton__star {
+    padding: 3vh !important;
+    color: blue !important;
+}
+.swapButton__right {
+    padding: 3vh !important;
+    color: green !important;
+}
+.swapButton__lighting {
+    padding: 3vh !important;
+    color: violet !important;
+}
